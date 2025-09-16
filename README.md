@@ -9,12 +9,12 @@
 ---
 
 <div align='center'>
-  <img src='https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif' width='500' height='300'/>
-</div>
+<img src='https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif' width='1000' height='400'/> 
+</div> 
 
 ## 🚀 About Me
 
-<img align='right' alt='Coding' width='300' src='https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif'>
+<img align='right' alt='Coding' width='340' src='https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif'>
 
 - 🎓 Computer Science student passionate about building and learning
 - 💡 Interested in systems, web, and automation
