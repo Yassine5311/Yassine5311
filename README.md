@@ -85,7 +85,7 @@
 | C++ | OOP concepts, STL | ███████░░░ 70% |
 | Python | Data structures, Algorithms | ████████░░ 80% |
 | Web Development | Responsive design, DOM | ██████░░░░ 60% |
-| Database (SQL+) | Query optimization | █████░░░░░ 50% |
+| Database (SQL+) | Query optimization | ████░░░░░░ 40% |
 | Shell Scripting | Automation, System admin | ████░░░░░░ 40% |
 
 </div>
@@ -117,12 +117,12 @@
 <div align='center'>
 
 <!-- Update with your real contacts -->
-<a href='mailto:your-email@example.com'>
+<a href='mailto:zgariyassin@gmail.com'>
   <img src='https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='Email'/>
 </a>
-<a href='https://linkedin.com/in/your-profile'>
+<!-- <a href='https://linkedin.com/in/your-profile'>
   <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn'/>
-</a>
+</a> -->
 <a href='https://github.com/Yassine5311'>
   <img src='https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white' alt='GitHub'/>
 </a>
