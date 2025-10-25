@@ -19,6 +19,7 @@ def load_streamers():
             with open(STREAMERS_FILE, 'r') as f:
                 return json.load(f)
         except json.JSONDecodeError:
+            print(f"Warning: {STREAMERS_FILE} is corrupted. Starting with empty list.")
             return {}
     return {}
 
@@ -45,6 +46,14 @@ def add_streamer():
         return
     
     streamers = load_streamers()
+    
+    # Check if streamer already exists
+    if name in streamers:
+        confirm = input(f"Warning: '{name}' already exists. Overwrite? (y/n): ").strip().lower()
+        if confirm != 'y':
+            print("Cancelled.")
+            return
+    
     streamers[name] = url
     save_streamers(streamers)
     

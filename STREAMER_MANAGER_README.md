@@ -71,7 +71,7 @@ Example `streamers.json`:
 {
   "xQc": "https://twitch.tv/xqc",
   "Shroud": "https://twitch.tv/shroud",
-  "Ninja": "https://www.youtube.com/@Ninja/live"
+  "Ninja": "https://youtube.com/@Ninja/live"
 }
 ```
 
